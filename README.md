@@ -8,12 +8,12 @@ I am a **Data Science student** currently mastering the fundamentals of data ana
 🧠 **Secondary Interest:** Exploring Computational Neuroscience.
 
 # 🛠️ Current Learning Stack
-**Data Science (Active):** Python (Pandas, NumPy), Probability and Statistics, Linear Algebra, Discrete Mathematics.
-**Environments:** Jupyter Notebook, Google Colab
-**Blockchain (Theory Phase):** Learning how ledgers work and decentralized structures.
-**Tools:** Git/GitHub, VS Code
+**1. Data Science (Active):** Python (Pandas, NumPy), Probability and Statistics, Linear Algebra, Discrete Mathematics.
+**2. Environments:** Jupyter Notebook, Google Colab
+**3. Blockchain (Theory Phase):** Learning how ledgers work and decentralized structures.
+**4. Tools:** Git/GitHub, VS Code
 
 # 🎯 2026 Goals
- Master Python for Data Analysis.
- Understand the architecture of a Blockchain (Nodes, Blocks, and Hash).
- Connect my first dataset to a visualization tool.
+1. Master Python for Data Analysis.
+2. Understand the architecture of a Blockchain (Nodes, Blocks, and Hash).
+3. Connect my first dataset to a visualization tool.
