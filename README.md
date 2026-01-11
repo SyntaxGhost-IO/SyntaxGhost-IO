@@ -1,4 +1,4 @@
-# Hi, I am SytaxGhost-IO 👻
+# Hi, I am SyntaxGhost-IO 👻
 
 # 🚀 The Mission: Future Blockchain Data Scientist
 I am a **Data Science student** currently mastering the fundamentals of data analysis. My goal is to apply these analytical skills to decentralized ledgers and blockchain ecosystems. I am also fascinated by **Neuroscience** and how biological intelligence can inform digital network structures.
